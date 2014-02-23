@@ -45,11 +45,7 @@ namespace DicePass
 
             if (chk_extraChar.Checked)
             {
-                int thirdRoll = random.Next(1, 6);
-                int fourthRoll = random.Next(1, 6);
-                String extraChar = Char.ToString(extraChars[random.Next(0, extraChars.Length - 1)]);
-                int extraCharInsertAt = random.Next(0, pass.Length - 1);
-                pass = pass.Insert(extraCharInsertAt, extraChar);
+                pass = pass.Insert(random.Next(0, pass.Length - 1), Char.ToString(extraChars[random.Next(0, extraChars.Length - 1)]));
             }
 
             txt_output.Text = pass.Trim();
