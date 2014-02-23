@@ -1,0 +1,8 @@
+F:\C SHARP\DicePass\DicePass\bin\Debug\DicePass.exe.config
+F:\C SHARP\DicePass\DicePass\bin\Debug\DicePass.exe
+F:\C SHARP\DicePass\DicePass\bin\Debug\DicePass.pdb
+F:\C SHARP\DicePass\DicePass\obj\Debug\DicePass.DicePass.resources
+F:\C SHARP\DicePass\DicePass\obj\Debug\DicePass.Properties.Resources.resources
+F:\C SHARP\DicePass\DicePass\obj\Debug\DicePass.csproj.GenerateResource.Cache
+F:\C SHARP\DicePass\DicePass\obj\Debug\DicePass.exe
+F:\C SHARP\DicePass\DicePass\obj\Debug\DicePass.pdb
